@@ -1,7 +1,7 @@
 [general]
 basename = adblockpluschrome
-version = 3.6.3
-author = eyeo GmbH
+version = 3.6.10
+author = Flattr AB a subsidiary of eyeo GmbH
 backgroundScripts = polyfill.js
   ext/common.js
   ext/background.js
