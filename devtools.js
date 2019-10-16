@@ -34,7 +34,7 @@ if ("panels" in browser.devtools)
       {
         browser.devtools.panels.create(
           "Adblock Plus",
-          "icons/abp-32.png",
+          "icons/blockera-32.png",
           "devtools-panel.html").then(panel =>
           {
             panel.onShown.addListener(window =>

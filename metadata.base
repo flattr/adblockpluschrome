@@ -12,14 +12,14 @@ testScripts = ../polyfill.js
   tests.js
 options = options.html
 browserAction =
-  icons/abp-16.png
-  icons/abp-20.png
-  icons/abp-32.png
-  icons/abp-40.png
+  icons/blockera-16.png
+  icons/blockera-20.png
+  icons/blockera-32.png
+  icons/blockera-40.png
   popup.html
 icons =
-  icons/abp-16.png
-  icons/abp-32.png
+  icons/blockera-16.png
+  icons/blockera-32.png
   icons/detailed/abp-48.png
   icons/detailed/abp-64.png
   icons/detailed/abp-128.png
@@ -74,7 +74,7 @@ snippets.js = adblockpluscore/lib/content/snippets.js
 updates.html = adblockplusui/updates.html
 updates.js = adblockplusui/updates.js
 data/languages.json = adblockplusui/data/languages.json
-icons/detailed/abp-128.png = adblockplusui/skin/icons/abp-128.png
+icons/detailed/abp-128.png = adblockplusui/skin/icons/blockera-128.png
 skin/common.css = adblockplusui/skin/common.css
 skin/composer.css = adblockplusui/skin/composer.css
 skin/day1.css = adblockplusui/skin/day1.css
@@ -100,8 +100,8 @@ skin/fonts/700/Athiti.woff2 = adblockplusui/skin/fonts/700/Athiti.woff2
 skin/fonts/700/Cairo.woff2 = adblockplusui/skin/fonts/700/Cairo.woff2
 skin/fonts/700/SourceSansPro.woff2 = adblockplusui/skin/fonts/700/SourceSansPro.woff2
 skin/fonts/font.css = adblockplusui/skin/fonts/font.css
-skin/icons/abp-full-logo.svg = adblockplusui/skin/icons/abp-full-logo.svg
-skin/icons/abp-logo.svg = adblockplusui/skin/icons/abp-logo.svg
+skin/icons/blockera-logo.svg = adblockplusui/skin/icons/blockera-logo.svg
+skin/icons/blockera-logo.svg = adblockplusui/skin/icons/blockera-logo.svg
 skin/icons/alert.svg = adblockplusui/skin/icons/alert.svg
 skin/icons/android.svg = adblockplusui/skin/icons/android.svg
 skin/icons/apple.svg = adblockplusui/skin/icons/apple.svg
